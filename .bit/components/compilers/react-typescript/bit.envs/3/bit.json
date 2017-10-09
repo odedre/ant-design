@@ -1,0 +1,12 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {},
+    "packageDependencies": {
+        "lodash.groupby": "4.6.0",
+        "typescript": "2.4.2",
+        "vinyl": "2.1.0"
+    }
+}
